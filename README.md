@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **samir5827245@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** Pursuing MERN Full Stack Development.
 - 🌱 **I’m currently learning:** MERN Full Stack Development and DSA.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** samir5827245@gmail.com
 - 😄 **Pronouns:** Sammy
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
